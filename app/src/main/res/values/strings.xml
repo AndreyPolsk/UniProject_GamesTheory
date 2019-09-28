@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">UniProject_GamesTheory</string>
+    <string name="loading">loading...</string>
+    <string name="bayes">Bayes: S%1$s</string>
+    <string name="semivar">SemiVariation: S%1$s</string>
+    <string name="walds">Wald\'s: S%1$s</string>
+    <string name="savages">Savage\'s: S%1$s</string>
+    <string name="hurwitz05">Hurwitz\'s (0.5): S%1$s</string>
+    <string name="hurwitz03">Hurwitz\'s (0.3): S%1$s</string>
 </resources>
