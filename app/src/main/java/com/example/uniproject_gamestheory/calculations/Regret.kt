@@ -1,3 +1,5 @@
+package com.example.uniproject_gamestheory.calculations
+
 class Regret(private val arrayMain: Array<Array<Float>>) {
     private val outerSize = arrayMain.size
     private val innerSize = arrayMain[0].size

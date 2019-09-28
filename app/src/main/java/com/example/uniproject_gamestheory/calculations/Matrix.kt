@@ -1,3 +1,5 @@
+package com.example.uniproject_gamestheory.calculations
+
 import kotlin.random.Random
 
 class Matrix(

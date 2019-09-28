@@ -1,3 +1,5 @@
+package com.example.uniproject_gamestheory.calculations
+
 class BayesClassifier(
     private val arrayMain: Array<Array<Float>>,
     private val arrayPossibility: Array<Float>

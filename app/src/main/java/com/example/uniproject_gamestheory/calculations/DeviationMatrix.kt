@@ -1,3 +1,5 @@
+package com.example.uniproject_gamestheory.calculations
+
 import kotlin.math.pow
 import kotlin.math.sqrt
 

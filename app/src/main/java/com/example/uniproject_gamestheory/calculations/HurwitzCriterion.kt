@@ -1,3 +1,5 @@
+package com.example.uniproject_gamestheory.calculations
+
 class HurwitzCriterion(private val arrayMain: Array<Array<Float>>, private val multiplier: Float = 0.5F) {
     private val outerSize = arrayMain.size
     private val innerSize = arrayMain[0].size
